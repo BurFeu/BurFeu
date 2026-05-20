@@ -1,1 +1,1 @@
-[![Coded With Pride](https://codedwithpride.github.io/images/CodedPrideBadge.png)](https://codedwithpride.github.io/)
+<img src="https://codedwithpride.github.io/images/CodedPrideBadge.png" alt="Coded With Pride" width="50">
